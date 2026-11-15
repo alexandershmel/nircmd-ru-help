@@ -4,7 +4,7 @@
 
 ## 📥 Скачать перевод
 
-👉 **[Скачать NirCMD.zip (актуальная версия)](https://www.nirsoft.net/utils/nircmd.html)**
+👉 **[Скачать NirCMD](https://www.nirsoft.net/utils/nircmd.html)**
 
 ## ⚠️ Как правильно открыть CHM-файл в Windows
 
