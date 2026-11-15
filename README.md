@@ -2,7 +2,7 @@
 
 Полный качественный перевод официальной документации консольной утилиты **NirCmd** от [NirSoft](https://nirsoft.net) на русский язык, скомпилированный в удобный файл справки формата `.chm`.
 
-## 📥 Скачать перевод (https://github.com/alexandershmel/nircmd-ru-help/releases/tag/v0.1)
+## 📥 Скачать перевод: https://github.com/alexandershmel/nircmd-ru-help/releases/tag/v0.1
 
 👉 **[Скачать NirCMD](https://www.nirsoft.net/utils/nircmd.html)**
 
